@@ -22,7 +22,7 @@ I will follow the approach outlined in Tim Corey's video The Path to C# in 2024
 
 ## The Path to C#
 **✅ Basic C# Syntax**
-- [ ] Syntax 
+- [x] Syntax 
 - [ ] Variables
 - [ ] Input / Output
 - [ ] Data Types
