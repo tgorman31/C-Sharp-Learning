@@ -1,0 +1,15 @@
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\bin\Debug\net9.0\Basic Syntax.exe
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\bin\Debug\net9.0\Basic Syntax.deps.json
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\bin\Debug\net9.0\Basic Syntax.runtimeconfig.json
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\bin\Debug\net9.0\Basic Syntax.dll
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\bin\Debug\net9.0\Basic Syntax.pdb
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\obj\Debug\net9.0\Basic Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\obj\Debug\net9.0\Basic Syntax.AssemblyInfoInputs.cache
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\obj\Debug\net9.0\Basic Syntax.AssemblyInfo.cs
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\obj\Debug\net9.0\Basic Syntax.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\obj\Debug\net9.0\Basic Syntax.sourcelink.json
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\obj\Debug\net9.0\Basic Syntax.dll
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\obj\Debug\net9.0\refint\Basic Syntax.dll
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\obj\Debug\net9.0\Basic Syntax.pdb
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\obj\Debug\net9.0\Basic Syntax.genruntimeconfig.cache
+C:\Users\thoma\Code\C-Sharp-Learning\Basic Syntax\obj\Debug\net9.0\ref\Basic Syntax.dll
